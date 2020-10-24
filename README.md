@@ -309,7 +309,7 @@ $ cd /data/wwwroot/freenom/ && php run
 
 ### ❤  捐赠 Donate
 如果你觉得本项目真的有帮助到你并且想回馈作者，感谢你的捐赠。
-#### PayPal: [https://www.paypal.me/mybsdc](https://www.paypal.me/mybsdc)
+#### PayPal: [https://www.paypal.me/mysdc](https://www.paypal.me/mybsdc)
 > Every time you spend money, you're casting a vote for the kind of world you want. -- Anna Lappe
 
 ![pay](https://s2.ax1x.com/2020/01/31/1394at.png "Donate")
